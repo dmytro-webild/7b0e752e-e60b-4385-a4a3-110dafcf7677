@@ -63,7 +63,7 @@ export default function LandingPage() {
       tag="Voted Best in Town"
       mediaItems={[
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/details-catered-holiday-table-restaurant_8353-9663.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/details-catered-holiday-table-restaurant_8353-9663.jpg?_wi=1",
           imageAlt: "Restaurant ambiance",
         },
         {
@@ -96,7 +96,7 @@ export default function LandingPage() {
       title="A Legacy of Culinary Excellence"
       description="We believe that great food brings people together. Our kitchen uses only the freshest, locally sourced ingredients to create dishes that tell a story."
       subdescription="Join us for a dining experience that is as memorable as it is delicious."
-      imageSrc="http://img.b2bpic.net/free-photo/woman-washing-fresh-vegetables-tomatoes_158595-2078.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/woman-washing-fresh-vegetables-tomatoes_158595-2078.jpg?_wi=1"
       mediaAnimation="blur-reveal"
       icon={Award}
       imageAlt="Chef preparing fresh ingredients"
@@ -114,7 +114,7 @@ export default function LandingPage() {
           id: "1",
           name: "Signature Artisan Pizza",
           price: "$18",
-          imageSrc: "http://img.b2bpic.net/free-photo/bowl-with-pasta-wooden-table-with-decorative-bicycle-pizza-box_181624-19177.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/bowl-with-pasta-wooden-table-with-decorative-bicycle-pizza-box_181624-19177.jpg?_wi=1",
         },
         {
           id: "2",
@@ -170,7 +170,7 @@ export default function LandingPage() {
               imageSrc: "http://img.b2bpic.net/free-photo/flexitarian-diet-food-composition_23-2148955502.jpg",
             },
           ],
-          imageSrc: "http://img.b2bpic.net/free-photo/details-catered-holiday-table-restaurant_8353-9663.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/details-catered-holiday-table-restaurant_8353-9663.jpg?_wi=2",
           imageAlt: "gourmet artisan pizza food",
         },
         {
@@ -185,7 +185,7 @@ export default function LandingPage() {
               imageSrc: "http://img.b2bpic.net/free-photo/raw-oysters-with-lemon-ice_93675-129076.jpg",
             },
           ],
-          imageSrc: "http://img.b2bpic.net/free-photo/woman-washing-fresh-vegetables-tomatoes_158595-2078.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/woman-washing-fresh-vegetables-tomatoes_158595-2078.jpg?_wi=2",
           imageAlt: "gourmet artisan pizza food",
         },
         {
@@ -200,7 +200,7 @@ export default function LandingPage() {
               imageSrc: "http://img.b2bpic.net/free-photo/tagliatelle-with-cream-sauce-salmon_140725-2219.jpg",
             },
           ],
-          imageSrc: "http://img.b2bpic.net/free-photo/bowl-with-pasta-wooden-table-with-decorative-bicycle-pizza-box_181624-19177.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/bowl-with-pasta-wooden-table-with-decorative-bicycle-pizza-box_181624-19177.jpg?_wi=2",
           imageAlt: "gourmet artisan pizza food",
         },
       ]}
